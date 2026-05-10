@@ -1,0 +1,12 @@
+Dear {Name},
+
+This is an automated financial alert regarding your pending balance.
+
+ Amount Due: Rs {Amount}
+ Deadline Date: {DueDate}
+ Time Limit: Must be paid by 11:59 PM tonight.
+
+Please ensure the Rs {Amount} transaction is completed before the time limit to avoid account suspension or late fees.
+
+Best regards,
+Automated Billing Engine

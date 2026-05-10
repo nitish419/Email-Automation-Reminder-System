@@ -1,0 +1,12 @@
+Hello {Name},
+
+This is an automated alert from the Central Library. 
+
+ Book Title: "{BookName}"
+ Return Date: {DueDate}
+ Time Limit: Before the library closes at 5:00 PM today.
+
+Please return your book before the time limit so other students can borrow it. 
+
+Thank you,
+Library Management System

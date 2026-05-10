@@ -1,0 +1,4 @@
+Name,Email,DueDate,Amount,BookName,MeetingTime
+John Doe,dummy1@example.com,2026-05-06,500,Atomic Habits,
+Jane Smith,dummy2@example.com,2026-05-07,1200,,10:00 AM
+Test User,your_email@gmail.com,2026-05-15,300,Python Crash Course,02:00 PM

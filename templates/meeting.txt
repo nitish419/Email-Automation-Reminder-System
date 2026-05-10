@@ -1,0 +1,11 @@
+Hi {Name},
+
+This is an automated calendar alert. You have a meeting scheduled for today.
+
+ Date: {DueDate}
+ Meeting Time: {MeetingTime}
+
+Please ensure you are logged in and ready 5 minutes before the time limit.
+
+Best,
+Operations Team
